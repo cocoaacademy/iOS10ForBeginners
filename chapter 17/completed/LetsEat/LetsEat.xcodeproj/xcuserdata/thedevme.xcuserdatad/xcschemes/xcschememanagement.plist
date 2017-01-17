@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LetsEat.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>LetsEatContentExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>LetsEatDataKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MessageApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2B795CCB1DE8B44600B7D9A5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BA93BEF1DBBD6880038396F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BF7D3131DE8F6BE007A0473</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BF7D38B1DE9FB6A007A0473</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
